@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-- 🙋‍♂️ I'm Pusit or you can call me Phu
-- 👀 I’m interested in Back-end developer.
-- 🏫 I’m currently studying in School of Information Technology at KMUTT.
+- 🙋‍♂️ I'm Pusit (Phu)
+- 🔭 I’m a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently studying in School of Information Technology at KMUTT
 - 📫 How to reach me: 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></p>
 <p align="center">
