@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🙋‍♂️ I'm Pusit (Phu)
-- 🔭 I’m a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m a Back-end Developer
 - 🌱 I’m currently studying in School of Information Technology at KMUTT
 - 📫 How to reach me: 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/></p>
